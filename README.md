@@ -1,3 +1,3 @@
 # OBÁ Pipocas
 
-Site institucional em Next.js + Tailwind CSS.
+Site institucional completo com Next.js + Tailwind CSS.
